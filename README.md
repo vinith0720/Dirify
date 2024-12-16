@@ -1,5 +1,5 @@
 # Drify
-The File Organizer for your folder it mainly used in Downloads Folder
+The File Organizer for your folder,it mainly used in ('Downloads') Folder
 ## Overview
 This Python script is designed to organize files from a source directory into subdirectories based on their file extensions. It takes a source directory and a target directory as inputs, then moves the files into corresponding subdirectories within the target directory, categorized by their file extensions.
 
