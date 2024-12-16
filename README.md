@@ -34,4 +34,32 @@ The script includes error handling for common issues like:
 2. **Run the script** in a Python environment.
    ```bash
    python file_organizer.py
+   ```
+3. **Enter the source and target directory paths when prompted**.
+The source directory is the location where the files you want to organize are stored.
+The target directory is where the files will be moved to, categorized by file extension.
+## Example
+```javascript
+Enter the source directory: /path/to/source
+Enter the target directory: /path/to/target
 ```
+## Error Handling
+The script will handle errors gracefully and print appropriate error messages, such as when the file is not found or when there's a permission issue.
+## License
+```
+This project is licensed under the MIT License - see the LICENSE file for details.
+```
+
+## Contributions
+Feel free to fork the repository and submit pull requests with improvements or bug fixes.
+
+```css
+
+This markdown file gives a complete description of your project, including its functionality, usage, and error handling, making it easy for others to understand and use.
+
+
+
+
+
+
+
